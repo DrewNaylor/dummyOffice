@@ -24,7 +24,7 @@ And that's about it as far as software is concerned.
 - Next, open Visual Studio 2010.
 - When Visual Studio 2010 launches and is ready for input, click <code>File>New Project...</code>.
 - In the left sidebar, navigate to <code>Other Project Types\Visual Studio Solutions</code> and click on <code>Blank Solution</code>. 
-- Name your solution something in the <code>Name:</code> field, browse for the directory if necessary, and click the <code>OK</code> button. As an example, I named mine "dummyOffice."
+- Name your solution something in the <code>Name:</code> field, browse for the directory if necessary, and click the <code>OK</code> button. As an example, I named mine "dummyOffice" and put it in a folder called "dummyOffice Edits."
 - After the Solution file is created, click the <code>Save All</code> to save your project.
 - Click <code>File>Add>Existing Project...</code> and navigate to where you cloned the repo earlier. Open one of the folders there (should be "dummy[Program]") and open up the vbproj file. May take some digging. Repeat until you've added all the project files.
 - If all goes well, the projects should appear in the Visual Studio <code>Solution Explorer</code>.
