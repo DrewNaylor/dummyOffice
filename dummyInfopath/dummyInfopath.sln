@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyInfopath", "dummyInfopath\dummyInfopath.vbproj", "{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}.Debug|x86.ActiveCfg = Debug|x86
+		{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}.Debug|x86.Build.0 = Debug|x86
+		{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}.Release|x86.ActiveCfg = Release|x86
+		{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

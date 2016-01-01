@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyAccess", "..\dummyAccess\dummyAccess\dummyAccess.vbproj", "{31930204-6041-46D5-BE3A-F09EE4966D2A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyClipOrganizer", "..\dummyClipOrganizer\dummyClipOrganizer\dummyClipOrganizer.vbproj", "{8C71C164-8307-496B-8186-5BED752BA74A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyExcel", "..\dummyExcel\dummyExcel\dummyExcel.vbproj", "{07B38EB2-0863-4FB4-9E06-63DC3A5564F0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyInfopath", "..\dummyInfopath\dummyInfopath\dummyInfopath.vbproj", "{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyLanguageSettings", "..\dummyLanguageSettings\dummyLanguageSettings\dummyLanguageSettings.vbproj", "{23424E0B-953F-4BEF-BEA0-4440481702DF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyOnenote", "..\dummyOnenote\dummyOnenote\dummyOnenote.vbproj", "{929677C0-0F5A-4430-BEA6-7A8D2C65F246}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyOnenoteQuickLaunch", "..\dummyOnenoteQuickLaunch\dummyOnenoteQuickLaunch\dummyOnenoteQuickLaunch.vbproj", "{54BC6AC3-2416-4EC4-8D5D-3EDEF4BFED25}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyOutlook", "..\dummyOutlook\dummyOutlook\dummyOutlook.vbproj", "{D907AA74-3FA0-4F55-94EE-49216029CA85}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyPictureManager", "..\dummyPictureManager\dummyPictureManager\dummyPictureManager.vbproj", "{D0D07698-1BEA-4457-A008-D46555F5B096}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyPowerpoint", "..\dummyPowerpoint\dummyPowerpoint\dummyPowerpoint.vbproj", "{9C2E7EA2-2953-4FC5-BB7A-6859A654B132}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyPublisher", "..\dummyPublisher\dummyPublisher\dummyPublisher.vbproj", "{FE4A9432-BBA4-43BA-A4AD-A044158AC202}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyQuery", "..\dummyQuery\dummyQuery\dummyQuery.vbproj", "{35D3E7B2-32DB-4762-8715-39EDFF4FFA5A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummySharepoint", "..\dummySharepoint\dummySharepoint\dummySharepoint.vbproj", "{40DED8C8-1297-4514-B3DD-4898D95BF74C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dummyWord", "..\dummyWord\dummyWord\dummyWord.vbproj", "{41060623-7A3E-4D2E-A841-A5DAF3C49739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31930204-6041-46D5-BE3A-F09EE4966D2A}.Debug|x86.ActiveCfg = Debug|x86
+		{31930204-6041-46D5-BE3A-F09EE4966D2A}.Debug|x86.Build.0 = Debug|x86
+		{31930204-6041-46D5-BE3A-F09EE4966D2A}.Release|x86.ActiveCfg = Release|x86
+		{31930204-6041-46D5-BE3A-F09EE4966D2A}.Release|x86.Build.0 = Release|x86
+		{8C71C164-8307-496B-8186-5BED752BA74A}.Debug|x86.ActiveCfg = Debug|x86
+		{8C71C164-8307-496B-8186-5BED752BA74A}.Debug|x86.Build.0 = Debug|x86
+		{8C71C164-8307-496B-8186-5BED752BA74A}.Release|x86.ActiveCfg = Release|x86
+		{8C71C164-8307-496B-8186-5BED752BA74A}.Release|x86.Build.0 = Release|x86
+		{07B38EB2-0863-4FB4-9E06-63DC3A5564F0}.Debug|x86.ActiveCfg = Debug|x86
+		{07B38EB2-0863-4FB4-9E06-63DC3A5564F0}.Debug|x86.Build.0 = Debug|x86
+		{07B38EB2-0863-4FB4-9E06-63DC3A5564F0}.Release|x86.ActiveCfg = Release|x86
+		{07B38EB2-0863-4FB4-9E06-63DC3A5564F0}.Release|x86.Build.0 = Release|x86
+		{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}.Debug|x86.ActiveCfg = Debug|x86
+		{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}.Debug|x86.Build.0 = Debug|x86
+		{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}.Release|x86.ActiveCfg = Release|x86
+		{F03F93ED-D17F-4F45-86FD-D6FD282A9C81}.Release|x86.Build.0 = Release|x86
+		{23424E0B-953F-4BEF-BEA0-4440481702DF}.Debug|x86.ActiveCfg = Debug|x86
+		{23424E0B-953F-4BEF-BEA0-4440481702DF}.Debug|x86.Build.0 = Debug|x86
+		{23424E0B-953F-4BEF-BEA0-4440481702DF}.Release|x86.ActiveCfg = Release|x86
+		{23424E0B-953F-4BEF-BEA0-4440481702DF}.Release|x86.Build.0 = Release|x86
+		{929677C0-0F5A-4430-BEA6-7A8D2C65F246}.Debug|x86.ActiveCfg = Debug|x86
+		{929677C0-0F5A-4430-BEA6-7A8D2C65F246}.Debug|x86.Build.0 = Debug|x86
+		{929677C0-0F5A-4430-BEA6-7A8D2C65F246}.Release|x86.ActiveCfg = Release|x86
+		{929677C0-0F5A-4430-BEA6-7A8D2C65F246}.Release|x86.Build.0 = Release|x86
+		{54BC6AC3-2416-4EC4-8D5D-3EDEF4BFED25}.Debug|x86.ActiveCfg = Debug|x86
+		{54BC6AC3-2416-4EC4-8D5D-3EDEF4BFED25}.Debug|x86.Build.0 = Debug|x86
+		{54BC6AC3-2416-4EC4-8D5D-3EDEF4BFED25}.Release|x86.ActiveCfg = Release|x86
+		{54BC6AC3-2416-4EC4-8D5D-3EDEF4BFED25}.Release|x86.Build.0 = Release|x86
+		{D907AA74-3FA0-4F55-94EE-49216029CA85}.Debug|x86.ActiveCfg = Debug|x86
+		{D907AA74-3FA0-4F55-94EE-49216029CA85}.Debug|x86.Build.0 = Debug|x86
+		{D907AA74-3FA0-4F55-94EE-49216029CA85}.Release|x86.ActiveCfg = Release|x86
+		{D907AA74-3FA0-4F55-94EE-49216029CA85}.Release|x86.Build.0 = Release|x86
+		{D0D07698-1BEA-4457-A008-D46555F5B096}.Debug|x86.ActiveCfg = Debug|x86
+		{D0D07698-1BEA-4457-A008-D46555F5B096}.Debug|x86.Build.0 = Debug|x86
+		{D0D07698-1BEA-4457-A008-D46555F5B096}.Release|x86.ActiveCfg = Release|x86
+		{D0D07698-1BEA-4457-A008-D46555F5B096}.Release|x86.Build.0 = Release|x86
+		{9C2E7EA2-2953-4FC5-BB7A-6859A654B132}.Debug|x86.ActiveCfg = Debug|x86
+		{9C2E7EA2-2953-4FC5-BB7A-6859A654B132}.Debug|x86.Build.0 = Debug|x86
+		{9C2E7EA2-2953-4FC5-BB7A-6859A654B132}.Release|x86.ActiveCfg = Release|x86
+		{9C2E7EA2-2953-4FC5-BB7A-6859A654B132}.Release|x86.Build.0 = Release|x86
+		{FE4A9432-BBA4-43BA-A4AD-A044158AC202}.Debug|x86.ActiveCfg = Debug|x86
+		{FE4A9432-BBA4-43BA-A4AD-A044158AC202}.Debug|x86.Build.0 = Debug|x86
+		{FE4A9432-BBA4-43BA-A4AD-A044158AC202}.Release|x86.ActiveCfg = Release|x86
+		{FE4A9432-BBA4-43BA-A4AD-A044158AC202}.Release|x86.Build.0 = Release|x86
+		{35D3E7B2-32DB-4762-8715-39EDFF4FFA5A}.Debug|x86.ActiveCfg = Debug|x86
+		{35D3E7B2-32DB-4762-8715-39EDFF4FFA5A}.Debug|x86.Build.0 = Debug|x86
+		{35D3E7B2-32DB-4762-8715-39EDFF4FFA5A}.Release|x86.ActiveCfg = Release|x86
+		{35D3E7B2-32DB-4762-8715-39EDFF4FFA5A}.Release|x86.Build.0 = Release|x86
+		{40DED8C8-1297-4514-B3DD-4898D95BF74C}.Debug|x86.ActiveCfg = Debug|x86
+		{40DED8C8-1297-4514-B3DD-4898D95BF74C}.Debug|x86.Build.0 = Debug|x86
+		{40DED8C8-1297-4514-B3DD-4898D95BF74C}.Release|x86.ActiveCfg = Release|x86
+		{40DED8C8-1297-4514-B3DD-4898D95BF74C}.Release|x86.Build.0 = Release|x86
+		{41060623-7A3E-4D2E-A841-A5DAF3C49739}.Debug|x86.ActiveCfg = Debug|x86
+		{41060623-7A3E-4D2E-A841-A5DAF3C49739}.Debug|x86.Build.0 = Debug|x86
+		{41060623-7A3E-4D2E-A841-A5DAF3C49739}.Release|x86.ActiveCfg = Release|x86
+		{41060623-7A3E-4D2E-A841-A5DAF3C49739}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
