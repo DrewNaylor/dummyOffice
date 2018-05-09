@@ -32,10 +32,10 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(66, 18)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(181, 39)
+        Me.Label1.Size = New System.Drawing.Size(183, 39)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "You have successfully launched the " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Picture Manager Dummy " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Component. Click ""Ok" & _
-    """ to continue."
+        Me.Label1.Text = "You have successfully launched the " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Picture Manager Dummy Component." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Click ""Ok""" & _
+    " to continue."
         '
         'ok_button
         '
@@ -52,7 +52,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(57, 23)
         Me.Button1.TabIndex = 2
-        Me.Button1.Text = "License"
+        Me.Button1.Text = "About"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Form1
