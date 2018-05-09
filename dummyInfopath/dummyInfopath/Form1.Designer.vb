@@ -30,12 +30,12 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(35, 20)
+        Me.Label1.Location = New System.Drawing.Point(67, 20)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(256, 26)
+        Me.Label1.Size = New System.Drawing.Size(181, 39)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "You have successfully launched the " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Infopath Dummy Component. Click ""Ok"" to cont" & _
-    "inue."
+        Me.Label1.Text = "You have successfully launched the " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Infopath Dummy Component." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Click ""Ok"" to con" & _
+    "tinue."
         '
         'ok_button
         '
@@ -52,7 +52,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(59, 23)
         Me.Button1.TabIndex = 2
-        Me.Button1.Text = "License"
+        Me.Button1.Text = "About"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Form1
