@@ -30,7 +30,7 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(66, 18)
+        Me.Label1.Location = New System.Drawing.Point(67, 18)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(181, 39)
         Me.Label1.TabIndex = 0
@@ -52,7 +52,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(59, 23)
         Me.Button1.TabIndex = 2
-        Me.Button1.Text = "License"
+        Me.Button1.Text = "About"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Form1
