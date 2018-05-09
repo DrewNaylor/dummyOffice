@@ -1,5 +1,5 @@
 # Welcome to the dummyOffice repo!
-As of right now, the only purpose of this repo is hosting my dummyOffice suite. I don't know what to say really in this README file, as this isn't a major project. dummyOffice is mainly for my App Launchers.
+As of right now, the only purpose of this repo is hosting my dummyOffice suite. I don't know what to say really in this README file, as this isn't a major project. dummyOffice is mainly for my App Launchers. If you don't have Microsoft Office installed but want to test one of my app launchers ([UXL Launcher](https://github.com/DrewNaylor/UXL-Launcher) &bull; Drew's App Launcher [32-bit](https://github.com/DrewNaylor/MSOfficeAppLauncherNext32), [64-bit](https://github.com/DrewNaylor/MSOfficeAppLauncherNext64)) anyway, you can place dummyOffice files where Microsoft Office would usually place them.
 
 ```
 dummyOffice - A suite of apps that open a window that says you opened them.
