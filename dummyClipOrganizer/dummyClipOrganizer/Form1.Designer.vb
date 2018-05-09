@@ -66,7 +66,7 @@ Partial Class Form1
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "dummyOffice: Clipart Manager"
+        Me.Text = "dummyOffice: Clip Organizer"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
