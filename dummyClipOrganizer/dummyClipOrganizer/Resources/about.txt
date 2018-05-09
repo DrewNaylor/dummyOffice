@@ -1,3 +1,4 @@
 This app uses the Gnu GPL version 3+. Visit http://www.gnu.org/licenses/gpl.html.
 Program Copyright 2015-2016, 2018 Drew Naylor.
 Microsoft is not affiliated with either the dummyOffice project or Drew Naylor and does not endorse this software.
+You can get a copy of the source code from https://github.com/DrewNaylor/dummyOffice/.

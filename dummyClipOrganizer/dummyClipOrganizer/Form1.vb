@@ -31,7 +31,7 @@ Public Class Form1
 
     Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
         MsgBox(My.Application.Info.Title & " Version " & My.Application.Info.Version.Major.ToString & "." & My.Application.Info.Version.Minor.ToString & vbCrLf &
-               vbCrLf &
+               My.Application.Info.Description & vbCrLf & vbCrLf &
                My.Resources.about, MsgBoxStyle.Information, "About " & My.Application.Info.Title)
     End Sub
 End Class
