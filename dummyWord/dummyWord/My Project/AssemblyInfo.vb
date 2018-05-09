@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("dummyWord")> 
-<Assembly: AssemblyDescription("")> 
+<Assembly: AssemblyDescription("Part of dummyOffice, a suite of apps that open a window that says you opened them.")> 
 <Assembly: AssemblyCompany("")> 
 <Assembly: AssemblyProduct("dummyWord")> 
-<Assembly: AssemblyCopyright("Copyright (C) Drew Naylor 2015+. Microsoft Office is a trademark of Microsoft Corp.")> 
+<Assembly: AssemblyCopyright("Copyright (C) Drew Naylor 2015-2016, 2018. Microsoft Office and all related words are a copyright and trademark of Microsoft Corporation, 2018. All rights are reserved to Microsoft for Microsoft's copyrights and trademarks. Microsoft is not affiliated with either the dummyOffice project or Drew Naylor and does not endorse this software.")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.5.0.0")> 
-<Assembly: AssemblyFileVersion("1.5.0.0")> 
+<Assembly: AssemblyVersion("2.0.0.0")> 
+<Assembly: AssemblyFileVersion("2.0.0.0")> 
