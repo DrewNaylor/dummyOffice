@@ -1,4 +1,4 @@
-﻿'dummyInfopath - Part of dummyOffice, a suite of apps that open a window that says you opened them.
+﻿' dummyInfopath - Part of dummyOffice, a suite of apps that open a window that says you opened them.
 ' Copyright (C) 2015-2016, 2018 Drew Naylor
 ' Microsoft Office is copyright Microsoft Corp.
 ' Microsoft is not affiliated with either the dummyOffice project or Drew Naylor and does not endorse this software.
