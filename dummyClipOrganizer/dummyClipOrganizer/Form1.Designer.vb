@@ -30,11 +30,11 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(12, 22)
+        Me.Label1.Location = New System.Drawing.Point(67, 22)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(291, 26)
+        Me.Label1.Size = New System.Drawing.Size(181, 39)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "You have successfully launched the " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Clipart Manager Dummy Component. Click ""Ok"" " & _
+        Me.Label1.Text = "You have successfully launched the " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Clip Organizer Dummy Component." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Click ""Ok"" " & _
     "to continue."
         '
         'ok_button
