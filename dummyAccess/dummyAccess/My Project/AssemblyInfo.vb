@@ -9,7 +9,7 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("dummyAccess")> 
-<Assembly: AssemblyDescription("")> 
+<Assembly: AssemblyDescription("Part of dummyOffice, a suite of apps that open a window that says you opened them.")> 
 <Assembly: AssemblyCompany("")> 
 <Assembly: AssemblyProduct("dummyAccess")> 
 <Assembly: AssemblyCopyright("Copyright (C) Drew Naylor 2015-2016, 2018. Microsoft Office and all related words are a copyright and trademark of Microsoft Corporation, 2018. All rights are reserved to Microsoft for Microsoft's copyrights and trademarks. Microsoft is not affiliated with either the dummyOffice project or Drew Naylor and does not endorse this software.")> 
