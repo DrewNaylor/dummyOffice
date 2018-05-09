@@ -30,12 +30,12 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(74, 18)
+        Me.Label1.Location = New System.Drawing.Point(55, 18)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(181, 39)
+        Me.Label1.Size = New System.Drawing.Size(218, 39)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "You have successfully launched the " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "SharePoint Dummy Component. " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Click ""Ok"" to " & _
-    "continue."
+        Me.Label1.Text = "You have successfully launched the " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "SharePoint Workspace Dummy Component. " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Clic" & _
+    "k ""Ok"" to continue."
         '
         'ok_button
         '
@@ -52,7 +52,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(54, 23)
         Me.Button1.TabIndex = 2
-        Me.Button1.Text = "License"
+        Me.Button1.Text = "About"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Form1
