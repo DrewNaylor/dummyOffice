@@ -1,4 +1,7 @@
 # Welcome to the dummyOffice repo!
+
+### Important: only use dummyOffice if you know what you're doing. Improper use could cause problems including confusing the Windows "Open With" dialog when trying to open a file with a real Microsoft Office program instead resulting in opening a file with a dummyOffice program (dummyOffice doesn't support opening files and is useless if you want to do anything).
+
 As of right now, the only purpose of this repo is hosting my dummyOffice suite. I don't know what to say really in this README file, as this isn't a major project. dummyOffice is mainly for my App Launchers. If you don't have Microsoft Office installed but want to test one of my app launchers ([UXL Launcher](https://github.com/DrewNaylor/UXL-Launcher) &bull; Drew's App Launcher [32-bit](https://github.com/DrewNaylor/MSOfficeAppLauncherNext32), [64-bit](https://github.com/DrewNaylor/MSOfficeAppLauncherNext64)) anyway, you can place dummyOffice files where Microsoft Office would usually place them.
 
 ```
